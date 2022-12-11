@@ -22,7 +22,8 @@ body {
     width: 20rem;
     height: 30.938rem;
     margin: 5rem auto;
-    border-radius: 1rem;
+    margin-bottom: 0;
+    border-radius: 0.938rem;
 }
 
 .main__image {
@@ -34,12 +35,12 @@ body {
 .main__image .image {
     width: 17.813rem;
     height: 18.125rem;
-    border-radius: .625rem;
+    border-radius: 0.625rem;
 }
 
 .main__texts {
     text-align: center;
-    padding: .50rem 2rem;
+    padding: 0.50rem 2rem;
 }
 
 .main__title {
@@ -49,6 +50,6 @@ body {
 
 .main__paragraph {
     color: var(--grayish-blue);
-    font-size: .867rem;
+    font-size: 0.867rem;
     margin: 1rem 1rem;
 }
